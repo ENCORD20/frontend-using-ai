@@ -2,7 +2,6 @@
 
 TechFlow is a professional, high-performance single-page website built with React and Tailwind CSS. It features a modern design system, smooth animations, and a fully responsive layout suitable for business or agency portfolios.
 
-![TechFlow Preview](https://via.placeholder.com/800x400?text=TechFlow+Preview)
 
 ## 🚀 Features
 
